@@ -1,5 +1,5 @@
 ---
-title: "portfolio"
+title: "Nick Robison"
 listing:
   contents: posts
   sort: "date desc"
