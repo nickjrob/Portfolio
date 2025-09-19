@@ -1,0 +1,11 @@
+---
+title: "NHL Analytics with R"
+author: "Nick Robison"
+date: "2024-04-16"
+categories: [R, projects, NHL]
+description: "This was an assignment where I had to analyze and visualize statistics using R. I created a poster to predict if Quinn Hughes would have been a top defenseman if he did not get injured in the 2024-25 NHL season."
+---
+
+<object data="HughesPoster.pdf" type="application/pdf" width="100%" height="1000px">
+        <p>Your browser does not support PDFs. You can <a href="HughesPoster.pdf">download the PDF here</a>.</p>
+    </object>
