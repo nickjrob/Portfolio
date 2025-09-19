@@ -6,16 +6,17 @@ about:
   links:
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/in/nick-robison-402b4424a/
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/nickjrob
 
 ---
 
-About this blog. 
+My name is Nick Robison, I am a senior majoring in applied data analytics with a concentration in information security. I am currently an Army ROTC cadet and am hoping to be an active duty cyber officer. ROTC has given me some experience in writing memos. Outside of school I enjoy travelling and reading. 
 
 
 
-# Heading 1
+
+
 
